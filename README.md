@@ -1,4 +1,4 @@
-This repo contains a responsive landing page for an e-commerce. A bit of practice of flexbox + grid + media queries 
+This repo contains a responsive landing page for a shopping site. A bit of practice of flexbox + grid + media queries 
 
 
 XS (Mobile):
