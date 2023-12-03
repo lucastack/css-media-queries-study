@@ -1,5 +1,16 @@
-This repo contains a landing page for an e-commerce site. Did it to practice the basics (grid/flex)
+This repo contains a responsive landing page for an e-commerce. A bit of practice of flexbox + grid + media queries 
 
-This is how it looks:
 
-![sample image of project](sample.png)
+XS (Mobile):
+
+![sample image of project](xs-sample.png)
+
+
+
+SM (Tablet):
+
+![sample image of project](sm-sample.png)
+
+LG (Laptops):
+
+![sample image of project](lg-sample.png)
